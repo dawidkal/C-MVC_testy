@@ -1,0 +1,168 @@
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\obj\Debug\SklepMVC.csprojAssemblyReference.cache
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\SklepMVC.dll.config
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\SklepMVC.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\SklepMVC.pdb
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\csc.exe
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\csc.exe.config
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\csc.rsp
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\csi.exe
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\csi.exe.config
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\csi.rsp
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.Console.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\vbc.exe
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\vbc.exe.config
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\vbc.rsp
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\EntityFramework.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\System.Web.Helpers.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\System.Web.Mvc.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\System.Web.Razor.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\System.Web.Webpages.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\EntityFramework.xml
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\System.Web.Razor.xml
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\System.Web.Webpages.xml
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\System.Web.Helpers.xml
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\System.Web.Mvc.xml
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\obj\Debug\SklepMVC.csproj.CopyComplete
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\obj\Debug\SklepMVC.dll
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\obj\Debug\SklepMVC.pdb
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\obj\Debug\SklepMVC.Migrations.InitialCreate.resources
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\obj\Debug\SklepMVC.csproj.GenerateResource.cache
+C:\Users\Dawid\source\repos\SklepMVC\SklepMVC\obj\Debug\SklepMVC.Migrations.dodaniePolaOpisSkrocony.resources
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\SklepMVC.dll.config
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\SklepMVC.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\SklepMVC.pdb
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\csc.exe
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\csc.exe.config
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\csc.rsp
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\csi.exe
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\csi.exe.config
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\csi.rsp
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.Console.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\vbc.exe
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\vbc.exe.config
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\vbc.rsp
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\EntityFramework.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\System.Web.Helpers.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\System.Web.Mvc.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\System.Web.Razor.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\System.Web.Webpages.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\EntityFramework.xml
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\System.Web.Razor.xml
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\System.Web.Webpages.xml
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\System.Web.Helpers.xml
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\System.Web.Mvc.xml
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\obj\Debug\SklepMVC.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\obj\Debug\SklepMVC.Migrations.InitialCreate.resources
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\obj\Debug\SklepMVC.Migrations.dodaniePolaOpisSkrocony.resources
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\obj\Debug\SklepMVC.csproj.GenerateResource.cache
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\obj\Debug\SklepMVC.csproj.CopyComplete
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\obj\Debug\SklepMVC.dll
+C:\Users\Dawid\Desktop\C# MVC\SklepMVC\SklepMVC\obj\Debug\SklepMVC.pdb
